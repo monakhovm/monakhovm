@@ -86,3 +86,5 @@ Experienced **DevOps Engineer** with a strong background in **system administrat
 2.  **Actpro (Odesa) – DevOps** (2022)
     *   Covered: **AWS**, **Terraform**, **Docker**, **Ansible**, **Git**, **Gitlab CI/CD**, **Kubernetes**
 3.  **DevOps01 – Devops, Kubernetes, Istio** (2023, 2024)
+
+Last updated: Mon May  5 02:12:52 PM EEST 2025
