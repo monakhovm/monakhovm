@@ -5,10 +5,6 @@ monakhov.m@gmail.com<br>
 +38 (097) 419 34 64<br>
 </div>
 
-## OBJECTIVE
-
-Experienced **DevOps Engineer** with a strong background in **system administration**, **CI/CD automation**, and **infrastructure management**. Proficient in **Linux** environments, **scripting**, and **containerization**, with foundational knowledge of **AWS**, **Kubernetes**, and **Terraform**. Seeking to leverage expertise within a dynamic team.
-
 ## RELEVANT PROFESSIONAL EXPERIENCE
 
 ### Viasecurity
@@ -65,26 +61,29 @@ Experienced **DevOps Engineer** with a strong background in **system administrat
 *   **Operating Systems:** **Linux**
 *   **Scripting/Programming:** **Python**, **Golang**, **Bash**
 *   **CI/CD & Automation:** **Jenkins**, **GitHub Actions**, **Ansible** (Basics), **Terraform** (Basics)
-*   **Cloud & Virtualization:** **AWS** (Basics), **Containers** (**Docker**), **Kubernetes** (Basics)
-*   **Networking & Protocols:** **TCP/IP**, **HTTP/HTTPS**, **SSH**
-*   **Databases:** **SQL**, **MySQL**
-*   **Monitoring/Logging:** **Prometheus** (Basics), **ELK Stack** (Basics)
-*   **Version Control:** **Git**
+*   **Cloud & Virtualization:** **AWS** (Basics), **Containers** (**Docker**), **Kubernetes**
+*   **Networking & Protocols:** **TCP/IP**, **HTTP/HTTPS**, **SSH**, etc.
+*   **Databases:** **SQL**, **MySQL**, **Postgres**
+*   **Monitoring/Logging:** **Prometheus**, **Grafana**, **ELK Stack** (Basics)
+*   **Version Control:** **Git**, **Github**
 *   **Web Servers:** **Nginx**, **HAProxy**
-*   **Other:** Sales Experience, Technical Support, **System Administration**, **Magento2**, **CEPH** (Basics)
+*   **Other:** Sales Experience, Technical Support, **System Administration**, **Magento2**, **CEPH**
 
 ## LANGUAGES
 
 *   **Ukrainian:** Native
-*   **English:** B1 (Intermediate)
-*   Swampy (not proud)
+*   **English:** B1+
+*   404 country language (not proud)
 
 ## COURSES/CERTIFICATES
 
 1.  **Stepik (online) – Programming in Golang** (2021)
-    *   https://stepik.org/cert/914980
+    *   [Certificate](https://stepik.org/cert/914980)
 2.  **Actpro (Odesa) – DevOps** (2022)
     *   Covered: **AWS**, **Terraform**, **Docker**, **Ansible**, **Git**, **Gitlab CI/CD**, **Kubernetes**
 3.  **DevOps01 – Devops, Kubernetes, Istio** (2023, 2024)
+4.  **DevOps та Kubernetes. Практичний інтенсив+**
+    *   Covered: **Kubernetes**, **CI/CD**, **GitOps**, **FluxCD**
+    *   [Certificate](https://certs.prometheus.org.ua/downloads/c72e01aa789346b1b60f912ed14ad549/Certificate.pdf)
 
 Last updated: Mon May  5 02:12:52 PM EEST 2025
