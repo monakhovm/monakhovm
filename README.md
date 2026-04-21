@@ -86,4 +86,4 @@ monakhov.m@gmail.com<br>
     *   Covered: **Kubernetes**, **CI/CD**, **GitOps**, **FluxCD**
     *   [Certificate](https://certs.prometheus.org.ua/downloads/c72e01aa789346b1b60f912ed14ad549/Certificate.pdf)
 
-Last updated: Mon May  5 02:12:52 PM EEST 2025
+Last updated: Tue Apr 21 22:02:52 GMT+3 2026
